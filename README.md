@@ -10,4 +10,4 @@ Finally, Looking for a team or an organization where I can learn and develop my 
 
 ### What I'm focusing on
 
-Currently improving my programming skills: Spring, Java and Automation using Jenkins, Terraform
+Currently improving my programming skills: Spring, Java & Automation using Jenkins, Terraform
