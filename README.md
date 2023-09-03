@@ -7,3 +7,7 @@ I did my Masters in Engineering from University of Calgary, with specialization 
 Currently, working in IT operations as Windows Server/Cloud Consultant. I am looking to get into devleopment, because solving problems and creating useful products, is what i like.
 
 Finally, Looking for a team or an organization where I can learn and develop my development skills.
+
+### What I'm focusing on
+
+Currently improving my programming skills: Spring, Java and Automation using Jenkins, Terraform
