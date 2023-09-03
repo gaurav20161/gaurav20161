@@ -4,7 +4,7 @@
 
 I did my Masters in Engineering from University of Calgary, with specialization in Computational Modeling, where i developed a Mathematical model & programmed it using Python and Mathematica and published a reserach paper.
 
-Currently, working in IT operations as Windows Server/Cloud Consultant. I am looking to get into devleopment, because solving problems and creating useful products, is what i like.
+I currently work in IT operations, as a Windows Server/Cloud Consultant. I'm passionate about solving complex problems and creating innovative solutions. I'm now eager to pivot my career toward development, where I can leverage my problem-solving skills to craft useful and impactful software products
 
 Finally, Looking for a team or an organization where I can learn and develop my development skills.
 
