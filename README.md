@@ -8,7 +8,8 @@ I currently work in IT operations, as a Windows Server/Cloud Consultant. I'm now
 
 Finally, Looking for a team or an organization where I can learn and develop my development skills.
 
-Cloud Certificatrions:
+Cloud Certifications:
+
 AZ-900
 
 
