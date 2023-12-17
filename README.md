@@ -1,6 +1,6 @@
 ### Hi 👋
 
-My educational background includes a Master's in Engineering from the University of Calgary, where I specialized in Computational Modeling. During my academic journey, I had the opportunity to develop a sophisticated mathematical model. This model was implemented using Python and Mathematica, and the results were significant enough to merit the publication of a research paper.
+My educational background includes a Master's in Engineering from the University of Calgary, where I specialized in Computational Physics. During my academic journey, I had the opportunity to develop a sophisticated mathematical model. This model was implemented using Python and Mathematica, and the results were significant enough to merit the publication of a research paper.
 
 I currently work in IT operations, as a Windows Server/Cloud Consultant. I'm now eager to pivot my career towards development, where I can leverage my problem-solving skills to craft useful and impactful software products.
 
