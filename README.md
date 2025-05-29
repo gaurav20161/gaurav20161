@@ -8,8 +8,8 @@ I worked in IT operations, as a Windows Server/Cloud Consultant for two years. C
 Cloud Certifications:
 
 AZ-900
+RHCSA
+AWS Solution architect associate
 
 
-### What I'm focusing on
 
-Currently improving my programming skills: Spring, Java & Automation using Jenkins, Terraform , AZ-204 & AZ-400
