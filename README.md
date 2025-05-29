@@ -7,9 +7,9 @@ I worked in IT operations, as a Windows Server/Cloud Consultant for two years. C
 
 Cloud Certifications:
 
-AZ-900
-RHCSA
-AWS Solution architect associate
+AZ-900,
+RHCSA,
+AWS Solution Architect Associate
 
 
 
